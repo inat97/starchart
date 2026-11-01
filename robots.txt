@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inat97.github.io/starchart/sitemap.xml
